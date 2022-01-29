@@ -1,2 +1,35 @@
 Logs/
 Library/
+Flimsy Arm/.vscode/settings.json
+Flimsy Arm/Assembly-CSharp.csproj
+Flimsy Arm/Cinemachine.csproj
+Flimsy Arm/com.unity.cinemachine.editor.csproj
+Flimsy Arm/Flimsy Arm.sln
+Flimsy Arm/obj/
+Flimsy Arm/Unity.CollabProxy.Editor.csproj
+Flimsy Arm/Unity.Mathematics.csproj
+Flimsy Arm/Unity.Mathematics.Editor.csproj
+Flimsy Arm/Unity.PlasticSCM.Editor.csproj
+Flimsy Arm/Unity.RenderPipeline.Universal.ShaderLibrary.csproj
+Flimsy Arm/Unity.RenderPipelines.Core.Editor.csproj
+Flimsy Arm/Unity.RenderPipelines.Core.Runtime.csproj
+Flimsy Arm/Unity.RenderPipelines.Core.ShaderLibrary.csproj
+Flimsy Arm/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.csproj
+Flimsy Arm/Unity.RenderPipelines.Universal.Editor.csproj
+Flimsy Arm/Unity.RenderPipelines.Universal.Runtime.csproj
+Flimsy Arm/Unity.RenderPipelines.Universal.Shaders.csproj
+Flimsy Arm/Unity.Rider.Editor.csproj
+Flimsy Arm/Unity.Searcher.Editor.csproj
+Flimsy Arm/Unity.Services.Core.Editor.csproj
+Flimsy Arm/Unity.ShaderGraph.Editor.csproj
+Flimsy Arm/Unity.ShaderGraph.Utilities.csproj
+Flimsy Arm/Unity.TextMeshPro.csproj
+Flimsy Arm/Unity.TextMeshPro.Editor.csproj
+Flimsy Arm/Unity.Timeline.csproj
+Flimsy Arm/Unity.Timeline.Editor.csproj
+Flimsy Arm/Unity.VisualStudio.Editor.csproj
+Flimsy Arm/Unity.VSCode.Editor.csproj
+Flimsy Arm/UnityEditor.TestRunner.csproj
+Flimsy Arm/UnityEditor.UI.csproj
+Flimsy Arm/UnityEngine.TestRunner.csproj
+Flimsy Arm/UnityEngine.UI.csproj
